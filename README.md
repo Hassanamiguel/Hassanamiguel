@@ -1,4 +1,4 @@
-### Olá, eu sou Lourenço Miguel Maiamba Umue, mas sou mais conhecido como Hassain.👌👨‍💻🫰🏀
+### Olá, eu sou Lourenço Miguel Maiamba Umue, sou mas conhecido como Hassain.👌👨‍💻🫰🏀
 
 <p>Sou um Desenvolvedor Full Stack mas agora estou focado na área Front-end. Estou constantemente desenvolvendo e aprendendo mais linguagens para resolver problemas reais e ajudar outros desenvolvedores a se atualizarem no mundo da programação!</p>
 
