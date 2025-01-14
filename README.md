@@ -1,6 +1,6 @@
-### Olá, eu sou Lourenço Miguel Maiamba Umue, sou mas conhecido como Hassain.👌👨‍💻🫰🏀
+### Hello, I'm Lourenço Miguel Maiamba Umue, I'm better known as Hassain.👌👨‍💻🫰🏀
 
-<p>Sou um Desenvolvedor Full Stack mas agora estou focado na área Front-end. Estou constantemente desenvolvendo e aprendendo mais linguagens para resolver problemas reais e ajudar outros desenvolvedores a se atualizarem no mundo da programação!</p>
+<p>I'm a Full Stack Developer but now I'm focused on the Front-end area. I'm constantly developing and learning more languages ​​to solve real problems and help other developers get up to speed in the world of programming!</p>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wanderleyhassain/)
@@ -9,7 +9,7 @@
 
 ![Hassain GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanamiguel&show_icons=true&theme=dracula)
 
-## Habilidades
+## Skills
 
 
 <div style="align:start;">
@@ -21,7 +21,7 @@
 </div>
 
 
-## Estruturas
+## Frameworks
 
 
 <div style="align:start;">
@@ -32,7 +32,7 @@
 </div>
 
 
-## Bases de dados utilizadas
+## Databases used
 
 <div style="align:start;">
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -40,16 +40,16 @@
 
 
 
-<h2>Projectos Destacados</h4>
+<h2>Featured Projects</h2>
 <p>
-    1 - Clone Fa tela de Login do Facebook<a href="https://www.facebook.com/">Facebook</a>
+    1 - Clone the Facebook Login Screen<a href="https://www.facebook.com/">Facebook</a>
 </p>
 
 ```markdown
 https://hassanamiguel.github.io/Clone_da_tela_de_Login_do_Facebook/
 ```
 <p>
-    2 - "Descubra meu portfólio! Design, inovação e criatividade reunidos para transformar ideias em projetos incríveis.
+    2 - Discover my portfolio! Design, innovation and creativity come together to transform ideas into incredible projects.
 </p>
 
 ```markdown
@@ -57,7 +57,7 @@ https://hassanamiguel.github.io/Marketing-Criativo-/
 ```
 
 <p>
-    3 - Fiz um Jornal Mural como um trabalho escolar
+    3 - I made a Mural Newspaper as a school project
 </p>
 
 ```markdown
@@ -66,7 +66,7 @@ https://hassanamiguel.github.io/JornalMoral/
 
 
 <p>
-    4 - Bem vindo ao meu site.
+    4 - Welcome to my website.
 </p>
 
 ```markdown
